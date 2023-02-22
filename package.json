@@ -3,11 +3,11 @@
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/returnthief/returnthief.quest.git"
+		"url": "https://github.com/ReturnThief/returnthief.quest.git"
 	},
-	"homepage": "https://github.com/returnthief/returnthief.quest#readme",
+	"homepage": "https://github.com/ReturnThief/returnthief.quest#readme",
 	"bugs": {
-		"url": "https://github.com/returnthief/returnthief.quest/issues"
+		"url": "https://github.com/ReturnThief/returnthief.quest/issues"
 	},
 	"license": "MIT",
 	"private": true,
