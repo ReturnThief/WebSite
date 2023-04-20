@@ -42,10 +42,6 @@
 		"zod": "3.21.4"
 	},
 	"publishConfig": {
-<<<<<<< HEAD
 		"access": "restricted"
-=======
-		"access": "public"
->>>>>>> upstream/main
 	}
 }
