@@ -1,16 +1,16 @@
 {
 	"name": "returnthief-web",
 	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ReturnThief/returnthief.quest.git"
-	},
+	"private": true,
 	"homepage": "https://github.com/ReturnThief/returnthief.quest#readme",
 	"bugs": {
 		"url": "https://github.com/ReturnThief/returnthief.quest/issues"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ReturnThief/returnthief.quest.git"
+	},
 	"license": "MIT",
-	"private": true,
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
