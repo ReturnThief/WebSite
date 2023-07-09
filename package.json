@@ -10,12 +10,7 @@
 		"url": "https://github.com/ReturnThief/returnthief.quest/issues"
 	},
 	"license": "MIT",
-<<<<<<< HEAD
 	"private": true,
-=======
-	"private": false,
-	"keywords": ["astro", "starter"],
->>>>>>> upstream/main
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
