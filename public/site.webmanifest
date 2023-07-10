@@ -1,31 +1,10 @@
 {
-<<<<<<< HEAD
-    "background_color": "#ffffff",
-=======
-<<<<<<< HEAD
-    "background_color": "// TODO Set the background color of the app",
->>>>>>> upstream/main
-    "categories": [],
-    "display": "minimal-ui",
-    "name": "Return Thief",
-    "orientation": "landscape",
-    "short_name": "returnthief",
-    "start_url": "/",
-<<<<<<< HEAD
-    "theme_color": "#ffffff"
-}
-=======
-    "theme_color": "// TODO Use the same theme color from template.html"
-}
-=======
-	"background_color": "// TODO Set the background color of the app",
+	"background_color": "#ffffff",
 	"categories": [],
 	"display": "minimal-ui",
-	"name": "// TODO Use the same title as in template.html",
+	"name": "Return Thief",
 	"orientation": "landscape",
-	"short_name": "// TODO Title but lowercase",
+	"short_name": "returnthief",
 	"start_url": "/",
-	"theme_color": "// TODO Use the same theme color from template.html"
+	"theme_color": "#ffffff"
 }
->>>>>>> upstream/main
->>>>>>> upstream/main
