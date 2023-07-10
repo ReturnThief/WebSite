@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "returnthief-web",
 	"version": "0.0.1",
 	"private": true,
@@ -10,23 +9,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ReturnThief/returnthief.quest.git"
-=======
-	"name": "astro-starter-template",
-	"version": "0.0.1",
-	"private": false,
-	"description": "📄 Starter template for AstroJS.",
-	"keywords": [
-		"astro",
-		"starter"
-	],
-	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
-	"bugs": {
-		"url": "https://github.com/Lightrix/astro-starter-template/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Lightrix/astro-starter-template.git"
->>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
@@ -60,12 +42,6 @@
 		"zod": "3.21.4"
 	},
 	"publishConfig": {
-<<<<<<< HEAD
 		"access": "restricted"
 	}
 }
-=======
-		"access": "public"
-	}
-}
->>>>>>> upstream/main
