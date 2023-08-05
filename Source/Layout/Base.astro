@@ -1,5 +1,5 @@
 ---
-import "@styles/Base.css";
+import "@Style/Base.css";
 
 const { title = "Return Thief", description = "" } = Astro.props;
 ---
@@ -35,7 +35,7 @@ const { title = "Return Thief", description = "" } = Astro.props;
 		/>
 
 		<style is:global>
-			@import "@styles/Global.css";
+			@import "@Style/Global.css";
 		</style>
 
 		<!-- Favicon -->
@@ -46,7 +46,7 @@ const { title = "Return Thief", description = "" } = Astro.props;
 				<slot />
 			</div>
 			<script>
-				import "@scripts/FIREBASE";
+				import "@Script/FIREBASE";
 			</script>
 		</div>
 	</body>
