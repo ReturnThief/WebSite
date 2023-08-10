@@ -1,7 +1,6 @@
 {
 	"name": "returnthief-web",
 	"version": "2.0.0",
-	"private": true,
 	"homepage": "https://github.com/ReturnThief/returnthief.quest#readme",
 	"bugs": {
 		"url": "https://github.com/ReturnThief/returnthief.quest/issues"
@@ -10,7 +9,6 @@
 		"type": "git",
 		"url": "git+https://github.com/ReturnThief/returnthief.quest.git"
 	},
-	"license": "MIT",
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
@@ -18,14 +16,13 @@
 	"devDependencies": {
 		"@astrojs/prefetch": "0.3.0",
 		"@astrojs/sitemap": "2.0.1",
-		"@lightrix/configuration": "0.0.1",
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.4",
 		"@tailwindcss/typography": "0.5.9",
-		"astro": "2.10.4",
-		"astro-compress": "2.0.4",
-		"astro-critters": "2.0.3",
-		"astro-rome": "2.0.0",
+		"astro": "2.10.5",
+		"astro-compress": "2.0.5",
+		"astro-critters": "2.0.4",
+		"astro-rome": "2.0.1",
 		"astrojs-service-worker": "1.0.0",
 		"autoprefixer": "10.4.14",
 		"cssnano": "6.0.1",
@@ -40,8 +37,5 @@
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.3.3",
 		"zod": "3.21.4"
-	},
-	"publishConfig": {
-		"access": "restricted"
 	}
 }
