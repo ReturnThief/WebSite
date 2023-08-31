@@ -11,10 +11,6 @@ export default defineConfig({
 	publicDir: "./Public",
 	outDir: "./Target",
 	site: "https://returnthief.quest",
-	experimental: {
-		assets: true,
-		viewTransitions: true,
-	},
 	compressHTML: true,
 	integrations: [
 		import.meta.env.MODE === "production" ? Worker() : null,
