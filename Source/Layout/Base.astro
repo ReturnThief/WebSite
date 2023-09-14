@@ -46,13 +46,11 @@ interface Props {
 		<!-- Favicon -->
 	</head>
 	<body>
-		<div id="returnthief-web">
-			<div class="grow">
-				<slot />
-			</div>
-			<script>
-				import "@Script/Firebase";
-			</script>
+		<div class="grow">
+			<slot />
 		</div>
+		<script>
+			import "@Script/Firebase";
+		</script>
 	</body>
 </html>
