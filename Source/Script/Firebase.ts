@@ -1,6 +1,4 @@
-import { initializeApp as Initialize } from "firebase/app";
-
-Initialize({
+(await import("firebase/app")).initializeApp({
 	apiKey: "AIzaSyDY8gxW4POoBJbhYJl9s6ZSZ3WlVcKTCww",
 	authDomain: "returnthief.firebaseapp.com",
 	projectId: "returnthief",
