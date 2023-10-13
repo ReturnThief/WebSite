@@ -2,6 +2,7 @@
 	"name": "@website/returnthief_quest",
 	"version": "0.0.1",
 	"private": false,
+<<<<<<< HEAD
 	"homepage": "https://github.com/ReturnThief/Website#readme",
 	"bugs": {
 		"url": "https://github.com/ReturnThief/Website/issues"
@@ -9,6 +10,20 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/ReturnThief/Website.git"
+=======
+	"description": "📄 Starter template for AstroJS.",
+	"keywords": [
+		"astro",
+		"starter"
+	],
+	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
+	"bugs": {
+		"url": "https://github.com/Playform/AstroStarterTemplate/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Playform/AstroStarterTemplate.git"
+>>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"author": {
