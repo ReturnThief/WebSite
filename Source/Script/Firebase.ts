@@ -1,4 +1,6 @@
-(await import("firebase/app")).initializeApp({
+import { initializeApp } from "firebase/app";
+
+initializeApp({
 	apiKey: "AIzaSyDY8gxW4POoBJbhYJl9s6ZSZ3WlVcKTCww",
 	authDomain: "returnthief.firebaseapp.com",
 	projectId: "returnthief",
@@ -8,4 +10,3 @@
 	measurementId: "G-D1GFQDDFPD",
 });
 
-export {};
