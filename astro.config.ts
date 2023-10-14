@@ -19,4 +19,5 @@ export default (await import("astro/config")).defineConfig({
 			sourcemap: true,
 		},
 	},
-});
+	// biome-ignore lint/suspicious/noExplicitAny:
+}) as any;
