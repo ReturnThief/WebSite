@@ -9,6 +9,7 @@ interface Props {
 }
 
 import { Head } from "astro-capo";
+import { ViewTransitions } from "astro:transitions";
 ---
 
 <!doctype html>
@@ -46,6 +47,7 @@ import { Head } from "astro-capo";
 		</style>
 
 		<!-- Favicon -->
+		<ViewTransitions />
 	</Head>
 	<body>
 		<div class="grow">
