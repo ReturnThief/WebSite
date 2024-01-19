@@ -1,4 +1,4 @@
-export default (await import("astro/config")).defineConfig({
+export default ((await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
@@ -19,6 +19,6 @@ export default (await import("astro/config")).defineConfig({
 			sourcemap: true,
 		},
 	},
-}) as typeof defineConfig;
+}) as typeof defineConfig);
 
 import type { defineConfig } from "astro/config";
