@@ -27,11 +27,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.7",
 		"@tailwindcss/typography": "0.5.10",
-<<<<<<< HEAD
 		"astro": "4.4.5",
-=======
-		"astro": "4.4.4",
->>>>>>> 852313b0278858aea33d80ffb43a754b10f87f4e
 		"astro-biome": "0.0.6",
 		"astro-capo": "0.0.1",
 		"astro-compress": "2.2.11",
@@ -39,11 +35,7 @@
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.17",
 		"cssnano": "6.0.5",
-<<<<<<< HEAD
 		"cssnano-preset-advanced": "6.0.5",
-=======
-		"cssnano-preset-advanced": "6.0.4",
->>>>>>> 852313b0278858aea33d80ffb43a754b10f87f4e
 		"dotenv": "16.4.5",
 		"firebase": "10.8.0",
 		"postcss": "8.4.35",
