@@ -2,19 +2,19 @@
 	"name": "@website/returnthief_quest",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "https://github.com/ReturnThief/Website#readme",
+	"homepage": "HTTPS://GitHub.Com/ReturnThief/Website#readme",
 	"bugs": {
-		"url": "https://github.com/ReturnThief/Website/issues"
+		"url": "HTTPS://GitHub.Com/ReturnThief/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ReturnThief/Website.git"
+		"url": "git+HTTPS://GitHub.Com/ReturnThief/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://NikolaHristov.Tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",
