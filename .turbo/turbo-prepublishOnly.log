@@ -1,0 +1,43 @@
+
+> @website/returnthief_quest@0.0.1 prepublishOnly D:\Developer\Application\ReturnThief\Website
+> astro build
+
+[31mWebSocket server error: Port is already in use[39m
+00:08:59 [ERROR] [vite] [31mWebSocket server error: Port is already in use[39m
+00:08:59 [build] output: "static"
+00:08:59 [build] directory: D:\Developer\Application\ReturnThief\Website\Target\
+00:08:59 [build] Collecting build info...
+00:08:59 [build] ✓ Completed in 2.34s.
+00:08:59 [build] Building static entrypoints...
+00:09:08 [vite] [32m✓ built in 9.07s[39m
+00:09:08 [build] ✓ Completed in 9.14s.
+
+ building client (vite) 
+00:09:08 [vite] transforming...
+00:09:13 [vite] [32m✓[39m 25 modules transformed.
+00:09:13 [vite] rendering chunks...
+[plugin astro:prefetch] Sourcemap is likely to be incorrect: a plugin (astro:prefetch) was used to transform files, but didn't generate a sourcemap for the transformation. Consult the plugin documentation for help
+[plugin astro:transitions] Sourcemap is likely to be incorrect: a plugin (astro:transitions) was used to transform files, but didn't generate a sourcemap for the transformation. Consult the plugin documentation for help
+00:09:13 [vite] computing gzip size...
+00:09:13 [vite] [2mTarget/[22m[36m_astro/Base.astro_astro_type_script_index_0_lang.BJKSnv4k.js             [39m[1m[2m 1.41 kB[22m[1m[22m[2m │ gzip: 0.89 kB[22m[2m │ map:   0.72 kB[22m
+00:09:13 [vite] [2mTarget/[22m[36m_astro/page.CY1iZwUD.js                                                  [39m[1m[2m 2.11 kB[22m[1m[22m[2m │ gzip: 1.07 kB[22m[2m │ map:   8.11 kB[22m
+00:09:13 [vite] [2mTarget/[22m[36m_astro/ViewTransitions.astro_astro_type_script_index_0_lang.DnFK6dK7.js  [39m[1m[2m13.11 kB[22m[1m[22m[2m │ gzip: 4.62 kB[22m[2m │ map:  35.23 kB[22m
+00:09:13 [vite] [2mTarget/[22m[36m_astro/index.esm.CDbocLk8.js                                             [39m[1m[2m39.52 kB[22m[1m[22m[2m │ gzip: 9.33 kB[22m[2m │ map: 197.07 kB[22m
+00:09:13 [vite] [32m✓ built in 4.75s[39m
+
+ generating static routes 
+00:09:13 ▶ Source/pages/index.astro
+00:09:13   └─ /index.html (+238ms)
+00:09:13 ✓ Completed in 288ms.
+
+00:09:13 [@astrojs/sitemap] `sitemap-index.xml` created at `Target`
+Successfully inlined a total of 1 HTML file.
+Successfully formatted a total of 4 JavaScript and TypeScript files.
+
+ Compress 
+✓ Successfully compressed a total of 1 CSS file for 65 Bytes.
+✓ Successfully compressed a total of 1 HTML file for 151 Bytes.
+00:09:19 [build] Waiting for integration "@playform/compress", hook "astro:build:done"...
+✓ Successfully compressed a total of 3 JavaScript files for 24.54 KB.
+00:09:19 [build] 1 page(s) built in 22.76s
+00:09:19 [build] Complete!
