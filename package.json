@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ReturnThief/Website.git"
+		"url": "git+HTTPS://github.com/ReturnThief/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
