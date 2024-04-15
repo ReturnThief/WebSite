@@ -2,4 +2,4 @@
 
 ReturnThief.quest main website.
 
-[returnthief.quest]: https://returnthief.quest
+[returnthief.quest]: HTTPS://returnthief.quest
