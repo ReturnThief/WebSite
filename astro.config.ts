@@ -4,6 +4,7 @@ export default (await import("astro/config")).defineConfig({
 	outDir: "./Target",
 	site: "https://returnthief.quest",
 	compressHTML: true,
+	prefetch: true,
 	integrations: [
 		// @ts-ignore
 		import.meta.env.MODE === "production"
