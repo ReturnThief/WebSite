@@ -1,0 +1,10 @@
+{
+	"background_color": "#ffffff",
+	"categories": [],
+	"display": "minimal-ui",
+	"name": "Return Thief",
+	"orientation": "landscape",
+	"short_name": "returnthief",
+	"start_url": "/",
+	"theme_color": "#ffffff"
+}
