@@ -2,7 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "https://ReturnThief.Quest",
+	site: "HTTPS://ReturnThief.Quest",
 	compressHTML: true,
 	prefetch: true,
 	integrations: [
