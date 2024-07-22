@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "@website/returnthief_quest",
 	"version": "0.0.1",
 	"private": false,
@@ -13,34 +12,9 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Nikola Hristov",
-		"email": "Nikola@PlayForm.Cloud",
-		"url": "https://nikolahristov.tech"
-=======
-	"name": "@playform/starter",
-	"version": "0.0.1",
-	"private": false,
-	"description": "📄 Starter —",
-	"keywords": [
-		"astro",
-		"starter",
-		"skeleton",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/Starter#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/PlayForm/Starter/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/PlayForm/Starter.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
 		"name": "🖋️ Source — 👐🏻 Open —",
 		"email": "Source/Open@PlayForm.Cloud",
 		"url": "HTTPS://PlayForm.Cloud"
->>>>>>> Fork/Current
 	},
 	"scripts": {
 		"Run": "astro dev",
@@ -69,10 +43,6 @@
 		"postcss-import": "16.1.0",
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.3",
-<<<<<<< HEAD
-=======
-		"solid-js": "1.8.18",
->>>>>>> Fork/Current
 		"tailwindcss": "*",
 		"typescript": "*",
 		"zod": "*"

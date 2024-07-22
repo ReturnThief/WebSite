@@ -3,13 +3,9 @@ export default {
 		"./Public/**/*.html",
 		"./Source/**/*.{astro,js,jsx,ts,tsx,vue,svelte}",
 	],
-<<<<<<< HEAD
 
 	darkMode: "media",
 
-=======
-	darkMode: "media",
->>>>>>> Fork/Current
 	theme: {
 		container: {
 			center: true,
@@ -26,13 +22,9 @@ export default {
 			},
 		},
 	},
-<<<<<<< HEAD
 
 	variants: {},
 
-=======
-	variants: {},
->>>>>>> Fork/Current
 	plugins: [
 		require("@tailwindcss/forms"),
 		require("@tailwindcss/typography"),

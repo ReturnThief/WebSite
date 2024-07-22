@@ -2,12 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-<<<<<<< HEAD
 	site: "HTTPS://ReturnThief.Quest",
-=======
-	// TODO Place your site URL here
-	// site: "",
->>>>>>> Fork/Current
 	compressHTML: true,
 	prefetch: true,
 	integrations: [
@@ -29,6 +24,9 @@ export default (await import("astro/config")).defineConfig({
 	vite: {
 		build: {
 			sourcemap: true,
+		},
+		resolve: {
+			preserveSymlinks: true,
 		},
 		css: {
 			devSourcemap: true,
