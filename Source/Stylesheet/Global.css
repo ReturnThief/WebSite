@@ -4,6 +4,7 @@ html {
 
 html,
 body {
+<<<<<<< HEAD
 	@apply h-full
 		w-full;
 }
@@ -19,13 +20,26 @@ body {
 		antialiased
 		sm:subpixel-antialiased
 		dark:text-white;
+=======
+	@apply h-full w-full;
+}
+
+body {
+	@apply flex flex-grow flex-col bg-white tabular-nums text-black antialiased sm:subpixel-antialiased dark:bg-black dark:text-white;
+>>>>>>> Fork/Current
 
 	font-variant-ligatures: no-common-ligatures;
 
 	--swup-overlay-theme-color: white;
+<<<<<<< HEAD
 	--swup-overlay-theme-duration: 0.2s;
 	--swup-overlay-theme-delay: 0s;
 	--swup-overlay-theme-scale: 1.2;
+=======
+	--swup-overlay-theme-duration: 0.21s;
+	--swup-overlay-theme-delay: 0s;
+	--swup-overlay-theme-scale: 0.21;
+>>>>>>> Fork/Current
 	--swup-overlay-theme-skew: 0deg;
 }
 
@@ -39,21 +53,33 @@ body {
 ::selection {
 	text-shadow: none;
 
+<<<<<<< HEAD
 	@apply bg-amber-400
 		text-black;
+=======
+	@apply bg-amber-400 text-black;
+>>>>>>> Fork/Current
 }
 
 @media (prefers-color-scheme: dark) {
 	*::selection,
 	::selection {
+<<<<<<< HEAD
 		@apply bg-orange-400
 			text-white;
+=======
+		@apply bg-orange-400 text-white;
+>>>>>>> Fork/Current
 	}
 }
 
 img {
+<<<<<<< HEAD
 	@apply inline-block
 		select-none
 		align-top
 		outline-none;
+=======
+	@apply inline-block select-none align-top outline-none;
+>>>>>>> Fork/Current
 }
