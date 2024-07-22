@@ -1,7 +1,7 @@
 {
 	"name": "@website/returnthief_quest",
 	"version": "0.0.1",
-	"private": false,
+	"private": true,
 	"homepage": "HTTPS://GitHub.Com/ReturnThief/Website#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/ReturnThief/Website/issues"
@@ -54,7 +54,7 @@
 		"zod": "*"
 	},
 	"publishConfig": {
-		"access": "public",
+		"access": "restricted",
 		"provenance": true
 	}
 }
