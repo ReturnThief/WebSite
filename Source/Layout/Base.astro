@@ -2,7 +2,7 @@
 import "@Stylesheet/Base.css";
 
 import { Head } from "astro-capo";
-import { ViewTransitions } from "astro:transitions";
+import { ClientRouter } from "astro:transitions";
 
 const { Title = "Return Thief", Description = "" } = Astro.props;
 
@@ -50,7 +50,7 @@ interface Props {
 		<slot name="Head" />
 
 		<!-- Favicon -->
-		<ViewTransitions />
+		<ClientRouter />
 	</Head>
 	<body>
 		<div class="grow">
