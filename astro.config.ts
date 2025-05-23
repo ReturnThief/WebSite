@@ -6,7 +6,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://ReturnThief.Quest",
+	site: "https://ReturnThief.Quest",
 	compressHTML: true,
 	prefetch: {
 		defaultStrategy: "hover",
